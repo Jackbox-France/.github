@@ -13,3 +13,6 @@ Téléchargez les patchs facilement grâce au patcher : <https://github.com/Alex
 - [Party pack 7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
 - [Party pack 8](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
 
+### Disclaimers
+
+Nous n'avons aucun lien avec Jackbox Games.
