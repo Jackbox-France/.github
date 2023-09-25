@@ -7,6 +7,7 @@ Téléchargez les patchs facilement grâce au patcher : <https://github.com/Alex
 ### Liste des jeux
 
 - [Party pack 2](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-2-French)
+- [Party pack 3](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-3-French)
 - [Party pack 4](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-4-French)
 - [Party pack 5](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-5-French)
 - [Party pack 6](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French)
