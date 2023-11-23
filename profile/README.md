@@ -2,7 +2,7 @@
 
 L'équipe francophone qui traduit les jeux Jackbox pour la communauté française 🎊
 
-Téléchargez les patchs facilement grâce au patcher : <https://github.com/AlexisL61/JackboxUtility/wiki/Tutoriel-d'installation-de-Jackbox-Utility>
+Téléchargez les patchs facilement grâce au patcher : <https://jackboxutility.com/>
 
 ### Liste des jeux
 
