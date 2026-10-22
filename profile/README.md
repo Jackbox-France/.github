@@ -13,6 +13,10 @@ Téléchargez les patchs facilement grâce au patcher : <https://jackboxutility.
 - [Party pack 6](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-6-French)
 - [Party pack 7](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-7-French)
 - [Party pack 8](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-8-French)
+- [Party pack 9](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-9-French)
+- [Party pack 10](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-10-French)
+- [Party pack 11](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
+- [Party pack 12](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-12-French)
 
 ### Disclaimers
 
