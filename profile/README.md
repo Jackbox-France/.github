@@ -18,6 +18,10 @@ Téléchargez les patchs facilement grâce au patcher : <https://jackboxutility.
 - [Party pack 11](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-11-French)
 - [Party pack 12](https://github.com/Jackbox-France/The-Jackbox-Party-Pack-12-French)
 
+### Liste des mods
+
+- [Archipelago pour Dodoremi](https://github.com/Jackbox-France/Dodoremi-Archipelago)
+
 ### Disclaimers
 
 Nous n'avons aucun lien avec Jackbox Games.
